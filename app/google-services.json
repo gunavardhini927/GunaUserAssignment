@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "450431530120",
+    "project_id": "gunauserassignment",
+    "storage_bucket": "gunauserassignment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450431530120:android:57ebedc06635488ab01b3d",
+        "android_client_info": {
+          "package_name": "com.example.gunauserassignment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAI5LCFcX3yRZ54B06rl6pAw9gHZrTOolw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
